@@ -2,6 +2,8 @@ team: Lions
 
 manager: conflict-2
 
+manager1: conflict-3
+manager2: conflict-4git
 members:
   - Thomas
   - Karen
